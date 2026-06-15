@@ -31,12 +31,3 @@ py -3 "%USERPROFILE%\Downloads\sort.py"
 Automatisch beim Anmelden
 -------------------------
 - Lege eine Verknüpfung zu `sort.bat` in `shell:startup` (Windows) ab, oder erstelle einen Task im Task Scheduler, der beim Anmelden `py -3 "%USERPROFILE%\Downloads\sort.py"` ausführt.
-
-Tipps
------
-- Prüfe zuerst mit `--dry-run` bevor du das Skript live ausführst.
-- Wenn du eine portable `.exe` möchtest, nutze PyInstaller lokal und lade die `dist/sort.exe` hoch.
-
-Lizenz
-------
-Füge hier deine bevorzugte Lizenz ein (z. B. MIT).
