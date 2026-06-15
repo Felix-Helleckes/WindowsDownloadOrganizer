@@ -5,7 +5,6 @@ Dieses Repository enthält ein kleines Werkzeug, das den `Downloads`-Ordner orga
 
 - `sort.py` — Python-Skript, das Dateien nach Dateityp in Zielordner verschiebt.
 - `sort.bat` — Starter-Batch für Windows: doppelklick führt `sort.py` aus.
-- `.gitignore` — Empfohlene Ignorierregeln für ein öffentliches Repository.
 
 Zielordner (innerhalb von `Downloads`): `Videos`, `Bilder`, `Dokumente`, `Archive`, `Musik`.
 
